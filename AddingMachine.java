@@ -52,5 +52,4 @@ public class AddingMachine {
   }
 }
 // If the comments in canvas don't work.
-// Username: jonton2k
-// Password: cseCSE360
+// Got Rid of Comments pertaining to username/password of GitHub
